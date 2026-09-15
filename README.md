@@ -15,7 +15,7 @@
 # 폴더 구조
 -이름/weekN/파일
 # Commit 규칙
--- Commit Message는 다음을 참고합니다.
+- Commit Message는 다음을 참고합니다.
     - Feat: 기능 추가, 실습, 과제 코드 파일이나 부수적인 코드 추가
     - Fix: 버그 및 코드 수정
     - Docs: 문서 수정 (README.md 등)
@@ -26,7 +26,7 @@
     - Refactor: 코드 리팩터링
     - Comment: 필요한 주석 추가 및 변경
     - Release: 버전 릴리즈
--- ex)
+- ex)
     - Feat: 6주차 과제 및 실습 코드
     - Fix: 4주차 과제 index.html 문법 오류 수정
     - Move: 5주차 파일 이동
